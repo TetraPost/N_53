@@ -1,0 +1,8 @@
+{
+    "title": "User",
+    "description": "User post",
+    "type": "object",
+    "properties": {
+      "name": { "type": "string", "maxLength": 20, "minLength": 1 }
+    }
+}
